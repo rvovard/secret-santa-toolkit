@@ -1,0 +1,7 @@
+{
+  "guestList": [
+    { "name": "Alex", "email": "alex@totally.spies" },
+    { "name": "Sam", "email": "sam@totally.spies" },
+    { "name": "Clover", "email": "clover@totally.spies" }
+  ]
+}
