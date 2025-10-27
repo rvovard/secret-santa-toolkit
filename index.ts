@@ -5,7 +5,7 @@ import { writeFileSync } from 'fs';
 import { Buffer } from 'buffer';
 import data from './data.json' with { type: 'json' };
 
-const testing: boolean = false;
+const testing: boolean = true;
 
 interface Guest {
   name: string
